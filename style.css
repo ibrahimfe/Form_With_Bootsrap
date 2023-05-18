@@ -31,3 +31,7 @@
     align-items: center;
     justify-content: center;
 }
+.btn:hover {
+    scale: 1.1;
+    transition: 0.3s;
+}
