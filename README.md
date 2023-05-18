@@ -3,7 +3,8 @@
 This repository contains a form built with Bootstrap, a popular CSS framework. The form is designed to be responsive and visually appealing, providing a user-friendly experience for collecting user input.
 
 You can Access the Form in this link
-    ibrahimfe.github.io/Form_With_Bootstrap
+
+```ibrahimfe.github.io/Form_With_Bootstrap```
 
 ## Features
 
@@ -14,7 +15,8 @@ You can Access the Form in this link
 
 ## Preview
 
-Insert an image or GIF demonstrating the form design or include a link to a live demo if applicable.
+![Registration Form WebPages](asset/preview.png)
+
 
 ## Usage
 
@@ -25,7 +27,7 @@ Insert an image or GIF demonstrating the form design or include a link to a live
 
 ## Dependencies
 
-- Bootstrap (version X.X.X): Link to the official Bootstrap documentation or download page.
+- Bootstrap (version 5.3.0): [Bootstrap](https://getbootstrap.com/)
 
 ## Contributing
 
@@ -37,6 +39,6 @@ The code in this repository is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- Bootstrap: Link to the Bootstrap project website or repository.
-- Any additional acknowledgements or credits if applicable.
+- [Bootstrap](https://getbootstrap.com/)
+- [Wallpaperaccess](https://wallpaperaccess.com/)
 
